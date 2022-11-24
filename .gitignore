@@ -35,6 +35,6 @@ stats.json
 
 # Build outputs
 dist
-lib
+#lib
 demo/build
 demo/public/docs
